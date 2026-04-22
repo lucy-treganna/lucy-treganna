@@ -3,7 +3,7 @@ Full-stack developer based in Berlin, building web applications with Next.js/Nux
 
 ## 🚀 Currently Working On
 - Building web applications for clients at a digital agency - portals, internal tools and workflow automation
-- Collaborating with a client's dev team to build an AI-powered virtual assistant platform — frontend, backend and testing across a Nuxt/NestJS stack
+- Collaborating with a client's dev team to build an AI-powered virtual assistant platform - frontend, backend and testing across a Nuxt/NestJS stack
 - Developing [ESL PlanPal](https://esl-plan-pal.vercel.app/) - an AI lesson planning tool for ESL teachers
 - Creating a website for Akwaaba - a volunteer-run social centre for migrants based in Hackney, London, using Next.js and Sanity CMS
 
